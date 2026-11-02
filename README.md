@@ -21,5 +21,8 @@ We move away from traditional fatalism, transforming ancient tarot archetypes in
 ## Getting Started
 
 ## Tech Stack & Tools
-
-## Roadmap
+* **Framework:** [Next.js](https://nextjs.org/) (React) - Utilizing SSG for lightning-fast Wiki pages
+* **Styling:** [Tailwind CSS](https://tailwindcss.com/)
+* **Database:** Static JSON (No complex backend required)
+* **State Management:** Local Storage
+* **Deployment:** [Vercel](https://vercel.com/)
